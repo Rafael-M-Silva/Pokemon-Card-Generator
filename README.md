@@ -1,4 +1,4 @@
-[<h1 align="center"> Pokemon Card Generator </h1>
+<h1 align="center"> Pokemon Card Generator </h1>
 
 <p align="center">
 Projeto 03 JavaScript - faculdade flamingo
