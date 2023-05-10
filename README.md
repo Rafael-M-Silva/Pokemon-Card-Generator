@@ -25,4 +25,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Com a requisição fetch conseguimos gerar um pokemon random, apresentando hp, imagem, nome, attack, defense e speed
-](https://pokeapi.co)
