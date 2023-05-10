@@ -1,4 +1,4 @@
-<h1 align="center"> Pokemon Card Generator </h1>
+[<h1 align="center"> Pokemon Card Generator </h1>
 
 <p align="center">
 Projeto 03 JavaScript - faculdade flamingo
@@ -20,8 +20,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS 3
 - Git e Github
 - JavaScript
-- API [https://pokeapi.co]
+- [API - Pokeapi](https://pokeapi.co)
 
 ## 💻 Projeto
 
-Agência Digital, apresentando seu serviço e sobre a empresa, uma agência que deixa seus clientes feliz e sempre satisfeito.
+Com a requisição fetch conseguimos gerar um pokemon random, apresentando hp, imagem, nome, attack, defense e speed
+](https://pokeapi.co)
